@@ -1,0 +1,15 @@
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\bin\Debug\net6.0\C#Seminar5TaskHARD_STAT.exe
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\bin\Debug\net6.0\C#Seminar5TaskHARD_STAT.deps.json
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\bin\Debug\net6.0\C#Seminar5TaskHARD_STAT.runtimeconfig.json
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\bin\Debug\net6.0\C#Seminar5TaskHARD_STAT.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\bin\Debug\net6.0\C#Seminar5TaskHARD_STAT.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\C#Seminar5TaskHARD_STAT.csproj.AssemblyReference.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\C#Seminar5TaskHARD_STAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\C#Seminar5TaskHARD_STAT.AssemblyInfoInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\C#Seminar5TaskHARD_STAT.AssemblyInfo.cs
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\C#Seminar5TaskHARD_STAT.csproj.CoreCompileInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\C#Seminar5TaskHARD_STAT.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\refint\C#Seminar5TaskHARD_STAT.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\C#Seminar5TaskHARD_STAT.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\C#Seminar5TaskHARD_STAT.genruntimeconfig.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\obj\Debug\net6.0\ref\C#Seminar5TaskHARD_STAT.dll

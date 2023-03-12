@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C_Seminar5TaskHARD_STAT
+build_property.ProjectDir = c:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5TaskHARD_STAT\
